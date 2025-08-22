@@ -1,0 +1,24 @@
+{
+  "transactions": {
+    "title": "Transactions",
+    "empty": "No transactions yet",
+    "addFirst": "Add your first transaction",
+    "amount": "Amount",
+    "category": "Category",
+    "note": "Note",
+    "date": "Date",
+    "type": "Type"
+  },
+  "categories": {
+    "food": "Food",
+    "travel": "Travel",
+    "bills": "Bills",
+    "shopping": "Shopping",
+    "salary": "Salary",
+    "other": "Other"
+  },
+  "types": {
+    "expense": "Expense",
+    "income": "Income"
+  }
+}

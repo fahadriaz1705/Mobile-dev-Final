@@ -1,0 +1,19 @@
+{
+  "tabs": {
+    "wallet": "Wallet",
+    "settings": "Settings",
+    "account": "Account"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "resetPassword": "Reset Password"
+  },
+  "screens": {
+    "transactions": "Transactions",
+    "addTransaction": "Add Transaction",
+    "editTransaction": "Edit Transaction",
+    "settings": "Settings",
+    "account": "Account"
+  }
+}
