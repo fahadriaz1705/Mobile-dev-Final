@@ -1,0 +1,17 @@
+{
+  "title": "Settings",
+  "theme": {
+    "title": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "title": "Language",
+    "english": "English"
+  },
+  "app": {
+    "version": "Version",
+    "about": "About"
+  }
+}
